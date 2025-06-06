@@ -1,0 +1,6 @@
+fastapi-practice/venv/
+fastapi-practice/__pycache__/
+*.pyc
+nextjs-practice/node_modules/
+nextjs-practice/.next/
+.DS_Store
