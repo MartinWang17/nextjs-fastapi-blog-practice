@@ -1,0 +1,11 @@
+# Python
+fastapi-practice/venv/
+fastapi-practice/__pycache__/
+*.pyc
+
+# Node
+nextjs-practice/node_modules/
+nextjs-practice/.next/
+
+# System
+.DS_Store
