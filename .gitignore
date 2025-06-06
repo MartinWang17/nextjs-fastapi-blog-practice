@@ -1,6 +1,24 @@
+# Backend (FastAPI)
 fastapi-practice/venv/
 fastapi-practice/__pycache__/
-*.pyc
+fastapi-practice/*.pyc
+fastapi-practice/.env*
+
+# Frontend (Next.js)
 nextjs-practice/node_modules/
 nextjs-practice/.next/
+nextjs-practice/next-env.d.ts
+nextjs-practice/.env*
+nextjs-practice/coverage/
+nextjs-practice/build/
+nextjs-practice/out/
+
+# Global ignores
 .DS_Store
+*.pem
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.vercel
